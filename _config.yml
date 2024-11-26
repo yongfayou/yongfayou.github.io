@@ -30,7 +30,7 @@ enable_last_update: false # Show/hide the last update time on pages
 # Links
 google_scholar: "https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en"
 twitter: "https://x.com/yongfa_you"
-ORCID: "https://orcid.org/0000-0002-8916-2940"
+orcid: "<a href='https://orcid.org/0000-0002-8916-2940' target='_blank'><img src='https://orcid.org/sites/default/files/images/orcid_24x24.png' alt='ORCID' /></a>"
 
 # Images
 avatar: "./assets/img/Yongfa You_Life Picture1.jpg"
