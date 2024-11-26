@@ -1,61 +1,59 @@
-# Basic Information 
-title: Yongfa (Jay) You
-position: Postdoctoral Research Fellow
-affiliation: Boston College
-subaffiliation: Department of Earth and Environmental Sciences 
-affiliation_link: 
-subaffiliation_link: 
-affiliation_logo: 
-email: yongfayouau@gmail.com
-email2:
-address:
-address_link: 
+# Basic Information
+title: "Yongfa (Jay) You"
+position: "Postdoctoral Research Fellow"
+affiliation: "Boston College"
+subaffiliation: "Department of Earth and Environmental Sciences"
+affiliation_link: "" # Add the link to your affiliation here
+subaffiliation_link: "" # Add the link to your subaffiliation here
+affiliation_logo: "" # Path to the logo if available
+email: "yongfayouau@gmail.com"
+email2: "" # Add a secondary email if needed
+address: "" # Physical address
+address_link: "" # Link to Google Maps or similar
 
 # Search Engine Optimization (SEO)
-keywords: yongfa you, you yongfa, yongfayou, youyongfa
-canonical: https://minimal-light-theme.yliu.me/
-description: Yongfa You is a Postdoctoral Research Fellow at Boston College. His research focuses on climate-smart agriculture, Earth system modeling, sustainable land management practices, and geospatial data science.
+keywords:
+  - yongfa you
+  - you yongfa
+  - yongfayou
+  - youyongfa
+canonical: "https://minimal-light-theme.yliu.me/"
+description: >
+  Yongfa You is a Postdoctoral Research Fellow at Boston College. His research focuses on 
+  climate-smart agriculture, Earth system modeling, sustainable land management practices, 
+  and geospatial data science.
 
-# The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: false
-
-# The option is used to show the last update time.
-enable_last_update: false
+# Special Options
+enable_hopkins_logo: false # Enable/disable the Johns Hopkins template
+enable_last_update: false # Show/hide the last update time on pages
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en
-researchgate: https://www.researchgate.net/scientific-contributions/Yongfa-You-2146126462
-twitter: https://x.com/yongfa_you
-orcid: https://orcid.org/0000-0002-8916-2940
+google_scholar: "https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en"
+researchgate: "https://www.researchgate.net/scientific-contributions/Yongfa-You-2146126462"
+twitter: "https://x.com/yongfa_you"
+orcid: "https://orcid.org/0000-0002-8916-2940"
 
-# Images 
-avatar: ./assets/img/Yongfa You_Life Picture.jpg
-favicon: ./assets/img/Yongfa You_Life Picture.jpg
-favicon_dark: ./assets/img/Yongfa You_Life Picture.jpg
+# Images
+avatar: "./assets/img/Yongfa You_Life Picture.jpg"
+favicon: "./assets/img/Yongfa You_Life Picture.jpg"
+favicon_dark: "./assets/img/Yongfa You_Life Picture.jpg"
 
 # Footnotes
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
-#footnote: Feel free to use my website's source code.
-#footnote_link: https://github.com/yaoyao-liu/minimal-light
+enable_footnote: false # Disable "Powered by Jekyll and Minimal Light theme"
+# Uncomment below to customize the footnote
+# footnote: "Feel free to use my website's source code."
+# footnote_link: "https://github.com/yaoyao-liu/minimal-light"
 
+# Google Analytics
+# Remove this line if Google Analytics is not used
+google_analytics: "${{ secrets.GOOGLE_SCHOLAR_ID }}"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
+# Jekyll Theme
+remote_theme: "yaoyao-liu/minimal-light"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # Required for remote themes
 
-
-
-
-# The following files will be removed from the generated website.
+# Excluded Files
 exclude:
   - build.sh
   - Gemfile
