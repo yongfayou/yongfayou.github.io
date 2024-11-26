@@ -39,10 +39,6 @@ enable_footnote: false
 #footnote: Feel free to use my website's source code.
 #footnote_link: https://github.com/yaoyao-liu/minimal-light
 
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
