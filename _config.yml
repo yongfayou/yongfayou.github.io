@@ -34,9 +34,9 @@ twitter: "https://x.com/yongfa_you"
 orcid: "https://orcid.org/0000-0002-8916-2940"
 
 # Images
-avatar: "./assets/img/Yongfa You_Life Picture.jpg"
-favicon: "./assets/img/Yongfa You_Life Picture.jpg"
-favicon_dark: "./assets/img/Yongfa You_Life Picture.jpg"
+avatar: "./assets/img/Yongfa You_Life Picture1.jpg"
+favicon: "./assets/img/Yongfa You_Life Picture1.jpg"
+favicon_dark: "./assets/img/Yongfa You_Life Picture1.jpg"
 
 # Footnotes
 enable_footnote: false # Disable "Powered by Jekyll and Minimal Light theme"
