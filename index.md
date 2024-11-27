@@ -35,10 +35,10 @@ I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/research.md %}
+{% include_relative _includes/Projects.md %}
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/conference.md %}
 
-{% include_relative _includes/Join Us.md %}
+{% include_relative _includes/Contact.md %}
