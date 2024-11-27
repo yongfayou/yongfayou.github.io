@@ -6,25 +6,21 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am currently a Postdoctoral Research Fellow at [Boston College](https://www.bc.edu/bc-web/schools/morrissey/departments/eesc/people/postdocs/Yongfa_You.html), working under the mentorship of Dr. [Hanqin Tian](https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/faculty-directory/hanqin-tian.html). My research focuses on understanding, quantifying, and predicting the complex dynamics of agroecosystems in response to environmental challenges such as climate change, agricultural management practices (e.g., nitrogen fertilization, tillage, irrigation), rising CO2 concentrations, nitrogen deposition, and disturbances like droughts and heatwaves. My overarching goal is to develop actionable solutions and decision-support tools that enhance climate-resilient and sustainable agricultural systems.
 
 ## Research Interest
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Agriculture** (e.g., soil carbon, greenhouse gases, food security, precision management)
+- **Climate Change** (e.g., impacts, mitigation, adaptation, extreme climate events)
+- **Earth System Modeling** (e.g., model development, applications, uncertainty analysis)
+- **Sustainable Land Management Practices** (e.g., cover cropping, no-tillage, crop rotation)
+- **Geospatial Data Science** (e.g., geospatial analysis, remote sensing, GIS, deep learning)
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
+- **Ph.D. in Earth System Sciences**, 2019 - 2023, Auburn University, US
+- **M.Sc. in Data Science and Engineering**, 2021 - 2023, Auburn University, US
+- **M.Sc. in Cartography and Geographic Information Science**, 2016 - 2019, Institute of Remote Sensing and Digital Earth, University of Chinese Academy of Sciences, China
+- **B.Sc. in Survey Engineering**, 2012 - 2016, Central South University of Forestry, China
 
 ## Grants and Fellowships
 - **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
