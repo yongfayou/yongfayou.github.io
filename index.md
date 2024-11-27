@@ -28,7 +28,7 @@ I am currently a Postdoctoral Research Fellow at [Boston College](https://www.bc
 - **Research Assistant**, 2016 - 2019, University of Chinese Academy of Sciences, China
 
 ## Grants and Selected Awards
-- **Postdoctoral Research Grant**, 2024, Boston College, **PI ($2,500) (Top Five)**
+- **Postdoctoral Research Grant**, 2024, Boston College, **PI**, **($2,500, Top Five)**
 - **Harry Murphy Graduate Student Award**, 2023, Auburn University, **($2,000)**
 - **Annual Outstanding Paper Award**, 2020, Journal of Remote Sensing
 - **Presidential Graduate Research Fellowship**, 2019, Auburn University, **($90,000)**
