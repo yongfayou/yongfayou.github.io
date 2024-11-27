@@ -1,4 +1,4 @@
-<h1 id="Join Us"></h1>
+<h1 id="Contact"></h1>
 
 <h2 style="margin: 30px 0px 10px;">Contact</h2>
 
