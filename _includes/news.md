@@ -4,6 +4,6 @@
 
 <ul>
 
-<li><strong>[Nov. 2024] I am excited to accept the offer for the Assistant Professor position in Agricultural Carbon Systems at Virginia Tech.</strong> </li>
+<li><strong>[Nov. 2024]</strong> I am excited to accept the offer for the Assistant Professor position in Agricultural Carbon Systems at Virginia Tech. </li>
 
 </ul>
