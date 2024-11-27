@@ -41,4 +41,4 @@ I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.
 
 {% include_relative _includes/conference.md %}
 
-{% include_relative _includes/contact.md %}
+{% include_relative _includes/Join Us.md %}
