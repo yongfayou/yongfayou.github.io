@@ -18,7 +18,7 @@ I am currently a Postdoctoral Research Fellow at [Boston College](https://www.bc
 
 ## Education
 - **Ph.D. in Earth System Sciences**, 2019 - 2023, Auburn University, US
-- **M.Sc. in Data Science and Engineering**, 2021 - 2023, Auburn University, US
+- **M.Sc. in Data Science and Engineering**, 2021 - 2022, Auburn University, US
 - **M.Sc. in Cartography and Geographic Information Science**, 2016 - 2019, Institute of Remote Sensing and Digital Earth, University of Chinese Academy of Sciences, China
 - **B.Sc. in Survey Engineering**, 2012 - 2016, Central South University of Forestry, China
 
@@ -28,7 +28,7 @@ I am currently a Postdoctoral Research Fellow at [Boston College](https://www.bc
 - **Research Assistant**, 2016 - 2019, University of Chinese Academy of Sciences, China
 
 ## Grants and Selected Awards
-- **Postdoctoral Research Grant at Boston College**, 2024, Harnessing Deep Learning for Near Real-Time Predictions of Agricultural Greenhouse Gas Emissions: Toward Climate-Smart Agriculture, **PI ($2,500) (Top Five)**
+- **Postdoctoral Research Grant**, 2024, Boston College, **PI ($2,500) (Top Five)**
 - **Harry Murphy Graduate Student Award**, 2023, Auburn University, **($2,000)**
 - **Annual Outstanding Paper Award**, 2020, Journal of Remote Sensing
 - **Presidential Graduate Research Fellowship**, 2019, Auburn University, **($90,000)**
