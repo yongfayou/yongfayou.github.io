@@ -1,15 +1,9 @@
 main:
 
-  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
-    authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/multi.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/multi.txt
-    image: ./assets/files/multi.jpg
-    citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
-    notes: Published
+  - title: Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
+    authors: 7.	You, Y., Tian, H., Pan, S., Shi, H., Lu, C., Batchelor, W.D., Cheng, B., Hui, D., Kicklighter, D., Liang, X.Z., Li, X., Melillo, J., Pan, N., Prior, S. A., Reilly, J. 
+    journal: Global Change Biology
+    page: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17109
 
   - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
     authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
