@@ -18,7 +18,7 @@ The code is written in Markdown and is intended to be used in a website or web p
 -->
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Song-Chen-60" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://orcid.org/0000-0002-8916-2940" target="_blank" style="font-size:15px;">ORCID</a><temp style="font-size:15px;">]</temp></h2>
 
 
 <div class="publications">
@@ -29,10 +29,6 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
-  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
