@@ -15,12 +15,12 @@
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin-bottom: 0; padding: 10px 0; border-bottom: 1px solid #eaeaea;">
+    <li style="margin: 0; padding: 10px 0; border-bottom: 1px solid #eaeaea;">
       <div style="text-align: left;">
-        <div class="title"><a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a></div>
-        <div class="author" style="margin-top: 5px;">{{ link.authors }}</div>
-        <div class="periodical" style="margin-top: 5px;"><em>{{ link.conference }}</em></div>
-        <div class="links" style="margin-top: 10px;">
+        <div class="title" style="margin-bottom: 5px;"><a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a></div>
+        <div class="author" style="margin-bottom: 5px;">{{ link.authors }}</div>
+        <div class="periodical" style="margin-bottom: 5px;"><em>{{ link.conference }}</em></div>
+        <div class="links">
           {% if link.pdf %} 
           <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           {% endif %}
