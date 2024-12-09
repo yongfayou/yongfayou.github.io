@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Publications 
+<h2 style="margin: 30px 0px -15px; padding-left: 15px;">Publications 
     <temp style="font-size:15px;">[</temp>
     <a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
     <temp style="font-size:15px;">]</temp>
@@ -9,14 +9,14 @@
     <temp style="font-size:15px;">]</temp>
 </h2>
 
-<div class="publications">
+<div class="publications" style="padding-left: 15px;">
   <ol class="bibliography" style="padding-left: 0; list-style: none; margin: 0;">
     {% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/' %}
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
     <li style="margin-bottom: 0; padding: 10px 0; border-bottom: 1px solid #eaeaea;">
-      <div style="text-align: left; padding-left: 15px; padding-right: 15px;">
+      <div style="text-align: left;">
         <div class="title"><a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a></div>
         <div class="author" style="margin-top: 5px;">{{ link.authors }}</div>
         <div class="periodical" style="margin-top: 5px;"><em>{{ link.conference }}</em></div>
