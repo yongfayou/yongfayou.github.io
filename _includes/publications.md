@@ -1,13 +1,9 @@
-<h1 id="publications"></h1>
+---
+layout: homepage
+---
 
-<h2 style="margin: 0; padding-left: 15px;">Publications 
-    <temp style="font-size:15px;">[</temp>
-    <a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
-    <temp style="font-size:15px;">]</temp>
-    <temp style="font-size:15px;">[</temp>
-    <a href="https://orcid.org/0000-0002-8916-2940" target="_blank" style="font-size:15px;">ORCID</a>
-    <temp style="font-size:15px;">]</temp>
-</h2>
+<h1 id="publications"></h1>
+<h2 style="margin: 60px 0px 10px;">Publications</h2>
 
 <div class="publications" style="padding-left: 15px;">
   <ol class="bibliography" style="padding: 0; margin: 0; list-style: none;">
@@ -15,13 +11,37 @@
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin: 0; padding: 0;">
-      <div style="text-align: left; margin: 0; padding: 0;">
-        <div class="title" style="margin: 0; padding: 0; font-weight: bold;">
+    <li style="margin-bottom: 15px;">
+      <div style="margin: 0; padding: 0;">
+        <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">
           <a href="{{ link.pdf }}" style="text-decoration: none; color: #0073e6;">{{ link.title }}</a>
         </div>
-        <div class="author" style="margin: 0; padding: 0; font-size: 14px;">{{ link.authors }}</div>
-        <div class="periodical" style="margin: 0; padding: 0; font-size: 13px; font-style: italic; color: #555;">{{ link.conference }}</div>
+        <div class="author" style="font-size: 14px; color: #555; margin-bottom: 3px;">
+          {{ link.authors }}
+        </div>
+        <div class="periodical" style="font-size: 13px; font-style: italic; color: #777; margin-bottom: 3px;">
+          {{ link.conference }}
+        </div>
+        <div class="links" style="margin-top: 5px; font-size: 12px;">
+          {% if link.pdf %}
+          <a href="{{ link.pdf }}" target="_blank" style="text-decoration: none; color: #0073e6; margin-right: 10px;">PDF</a>
+          {% endif %}
+          {% if link.code %}
+          <a href="{{ link.code }}" target="_blank" style="text-decoration: none; color: #0073e6; margin-right: 10px;">Code</a>
+          {% endif %}
+          {% if link.page %}
+          <a href="{{ link.page }}" target="_blank" style="text-decoration: none; color: #0073e6; margin-right: 10px;">Project Page</a>
+          {% endif %}
+          {% if link.bibtex %}
+          <a href="{{ link.bibtex }}" target="_blank" style="text-decoration: none; color: #0073e6; margin-right: 10px;">BibTex</a>
+          {% endif %}
+          {% if link.notes %}
+          <span style="color: #e74d3c;">{{ link.notes }}</span>
+          {% endif %}
+          {% if link.citation %}
+          <span style="color: #e74d3c;"> • {{ link.citation }} Citations</span>
+          {% endif %}
+        </div>
       </div>
     </li>
 
