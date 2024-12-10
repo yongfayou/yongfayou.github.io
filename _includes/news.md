@@ -1,6 +1,6 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 10px 0px 0px;">News</h2>
+<h2 style="margin: 10px 0px 10px;">News</h2>
 
 <ul style="padding-left: 0; list-style-position: inside; ">
 
