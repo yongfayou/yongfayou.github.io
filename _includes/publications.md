@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 0px 0px 0px; padding-left: 15px;">Publications 
+<h2 style="margin: 0; padding-left: 15px;">Publications 
     <temp style="font-size:15px;">[</temp>
     <a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
     <temp style="font-size:15px;">]</temp>
@@ -10,56 +10,36 @@
 </h2>
 
 <div class="publications" style="padding-left: 15px;">
-  <ol class="bibliography" style="padding-left: 0; list-style: none; margin: 0;">
+  <ol class="bibliography" style="padding: 0; margin: 0; list-style: none;">
     {% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/' %}
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin-bottom: 0; padding: 10px 0;">
-      <div style="text-align: left; margin: 0;">
-        <div class="title" style="margin-bottom: 0px;">
-          <a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a>
+    <li style="margin: 0; padding: 5px 0;">
+      <div style="text-align: left; margin: 0; padding: 0;">
+        <div class="title" style="margin: 0; font-weight: bold;">
+          <a href="{{ link.pdf }}" style="text-decoration: none; color: #0073e6;">{{ link.title }}</a>
         </div>
-        <div class="author" style="margin-bottom: 0px;">{{ link.authors }}</div>
-        <div class="periodical" style="margin-bottom: 0px;"><em>{{ link.conference }}</em></div>
-        <div class="links" style="margin-top: 0px;">
+        <div class="author" style="margin: 0; font-size: 14px;">{{ link.authors }}</div>
+        <div class="periodical" style="margin: 0; font-size: 13px; font-style: italic; color: #555;">{{ link.conference }}</div>
+        <div class="links" style="margin: 0; font-size: 12px; color: #0073e6;">
           {% if link.pdf %} 
-          <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="{{ link.pdf }}" target="_blank" style="margin-right: 10px; text-decoration: none;">PDF</a>
           {% endif %}
           {% if link.code %} 
-          <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+          <a href="{{ link.code }}" target="_blank" style="margin-right: 10px; text-decoration: none;">Code</a>
           {% endif %}
           {% if link.page %} 
-          <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+          <a href="{{ link.page }}" target="_blank" style="margin-right: 10px; text-decoration: none;">Project Page</a>
           {% endif %}
           {% if link.bibtex %} 
-          <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+          <a href="{{ link.bibtex }}" target="_blank" style="margin-right: 10px; text-decoration: none;">BibTex</a>
           {% endif %}
           {% if link.notes %} 
-          <strong><i style="color:#e74d3c">{{ link.notes }}</i></strong>
-          {% endif %}
-          {% if link.others %} 
-          {{ link.others }}
+          <span style="color: #e74d3c;">{{ link.notes }}</span>
           {% endif %}
           {% if link.citation %} 
-          <strong><a style="color:#e74d3c; font-weight:600;"> • <i class="total_citation_mtl" data-citation="{{ link.citation }}"></i> <i style="color:#e74d3c; font-weight:600;">Citations</i></a></strong>
-          <script>
-            $(document).ready(function () {
-                var gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/';
-                $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-                    var citationEles = document.getElementsByClassName('total_citation_mtl');
-                    Array.prototype.forEach.call(citationEles, function(element) {
-                        var citationKey = element.getAttribute('data-citation');
-                        if (data['publications'][citationKey]) {
-                            var numCitations = data['publications'][citationKey]['num_citations'];
-                            element.innerHTML = numCitations;
-                        } else {
-                            element.innerHTML = 'N/A';
-                        }
-                    });
-                });
-            });
-          </script>
+          <span style="color: #e74d3c;"> • {{ link.citation }} Citations</span>
           {% endif %}
         </div>
       </div>
