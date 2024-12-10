@@ -19,7 +19,7 @@ I am currently a Postdoctoral Research Fellow at [Boston College](https://www.bc
 - **Ph.D. in Earth System Sciences**, 2019 - 2023, Auburn University, US
 - **M.Sc. in Data Science and Engineering**, 2021 - 2022, Auburn University, US
 - **M.Sc. in Cartography and Geographic Information Science**, 2016 - 2019, Institute of Remote Sensing and Digital Earth, University of Chinese Academy of Sciences, China
-- **B.Sc. in Survey Engineering**, 2012 - 2016, Central South University of Forestry and Technology, China
+- **B.Sc. in Survey Engineering**, 2012 - 2016, Central South University of Forestry & Technology, China
 
 ## Appointments
 - **Postdoctoral Research Fellow**, 2023 - Present, Boston College, US
