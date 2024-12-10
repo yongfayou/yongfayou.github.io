@@ -1,14 +1,11 @@
 main:
 
-  - title: "Contact"
+  - title: "Join Us"
     url: ./#contact 
     right: true 
 
   - title: "News"
-    url: ./#news
-    
-  - title: "Conferences & Events"
-    url: ./#conferences
+    url: ./#news   
 
   - title: "Publications"
     url: ./#publications
