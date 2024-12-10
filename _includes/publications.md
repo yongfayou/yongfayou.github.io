@@ -7,7 +7,7 @@
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 5px; color:#e74d3c;">
         Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
       </div>
-      <div class="author" style="font-size: 16px; color: #555;">
+      <div class="author" style="font-size: 16px; color: #2130b0;">
         <strong>You, Y.</strong>, Tian, H., Pan, S., Shi, H., Lu, C., Batchelor, W.D., Cheng, B., Hui, D., Kicklighter, D., Liang, X.Z., Li, X., Melillo, J., Pan, N., Prior, S. A., Reilly, J. (2023) <strong>Global Change Biology</strong>, 30(1), p.e17109.
       </div>
     </div>
