@@ -24,9 +24,9 @@
     Depending on the postdoc’s interests and expertise, potential research topics include:
   </p>
   <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <li>Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</li>
-    <li>Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</li>
-    <li>Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</li>
+    <div>Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</div>
+    <div>Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</div>
+    <div>Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</div>
   </ul>
   <p>
     The postdoc will have the opportunity to pursue their own research interests in related fields, 
@@ -36,10 +36,10 @@
 
   <p><strong>Required Qualifications:</strong></p>
   <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <li>Ph.D. in agroecology, Earth and environmental sciences, geography, remote sensing, or a closely related field (within 4 years after completing the PhD).</li>
-    <li>Experience in AI research and geospatial data processing.</li>
-    <li>Strong programming skills (e.g., Python, R, MATLAB, C++).</li>
-    <li>Ability to conduct independent research and effectively disseminate findings.</li>
+    <div>Ph.D. in agroecology, Earth and environmental sciences, geography, remote sensing, or a closely related field (within 4 years after completing the PhD).</div>
+    <div>Experience in AI research and geospatial data processing.</div>
+    <div>Strong programming skills (e.g., Python, R, MATLAB, C++).</div>
+    <div>Ability to conduct independent research and effectively disseminate findings.</div>
   </ul>
 
   <p><strong>Preferred Qualifications:</strong></p>
