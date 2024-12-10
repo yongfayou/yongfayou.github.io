@@ -1,6 +1,6 @@
 <h1 id="Join Us"></h1>
 
-<h2 style="margin: 0px 0px 10px;">Join Us</h2>
+<h2 style="margin: 0px 0px 0px;">Join Us</h2>
 
 <div style="font-size: 16px; line-height: 1.6; color: #333;">
   <p><strong>Postdoc and Ph.D. Opportunities in Climate-Smart Agriculture at Virginia Tech</strong></p>
@@ -24,10 +24,10 @@
     agroecosystem modeling, and model-data integration, to advance the implementation of CSA practices. 
     Depending on the postdoc’s interests and expertise, potential research topics include:
   </p>
-  <ul style="padding-left: 20px;">
-    <li>Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</li>
-    <li>Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</li>
-    <li>Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</li>
+  <ul style="padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 5px;">Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</li>
+    <li style="margin-bottom: 5px;">Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</li>
+    <li style="margin-bottom: 5px;">Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</li>
   </ul>
   <p>
     The postdoc will have the opportunity to pursue their own research interests in related fields, 
@@ -36,17 +36,17 @@
   </p>
 
   <p><strong>Required Qualifications:</strong></p>
-  <ul style="padding-left: 20px;">
-    <li>Ph.D. in agroecology, Earth and environmental sciences, geography, remote sensing, or a closely related field (within 4 years after completing the PhD)</li>
-    <li>Experience in AI research and geospatial data processing</li>
-    <li>Strong programming skills (e.g., Python, R, MATLAB, C++)</li>
-    <li>Ability to conduct independent research and effectively disseminate findings</li>
+  <ul style="padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 5px;">Ph.D. in agroecology, Earth and environmental sciences, geography, remote sensing, or a closely related field (within 4 years after completing the PhD)</li>
+    <li style="margin-bottom: 5px;">Experience in AI research and geospatial data processing</li>
+    <li style="margin-bottom: 5px;">Strong programming skills (e.g., Python, R, MATLAB, C++)</li>
+    <li style="margin-bottom: 5px;">Ability to conduct independent research and effectively disseminate findings</li>
   </ul>
 
   <p><strong>Preferred Qualifications:</strong></p>
-  <ul style="padding-left: 20px;">
-    <li>Experience with process-based modeling, data assimilation, and model-data integration</li>
-    <li>Proficiency in handling large datasets, Google Earth Engine, or high-performance computing</li>
+  <ul style="padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 5px;">Experience with process-based modeling, data assimilation, and model-data integration</li>
+    <li style="margin-bottom: 5px;">Proficiency in handling large datasets, Google Earth Engine, or high-performance computing</li>
   </ul>
 
   <p><strong>Salary Information:</strong> $55,000 – $62,000 (commensurate with experience)</p>
@@ -63,31 +63,10 @@
   </p>
 
   <p><strong>Potential areas of focus include (but are not limited to):</strong></p>
-  <ul style="padding-left: 20px;">
-    <li>Leveraging advanced tools (e.g., modeling and AI) to support precision agriculture</li>
-    <li>Monitoring, assessing, and predicting agroecosystem dynamics (e.g., yield, GHG emissions, SOC)</li>
-    <li>Developing and evaluating mitigation and adaptation strategies in agriculture</li>
-    <li>Investigating carbon dynamics, nutrient cycling, and soil health interactions within agroecosystems</li>
+  <ul style="padding-left: 20px; margin: 0;">
+    <li style="margin-bottom: 5px;">Leveraging advanced tools (e.g., modeling and AI) to support precision agriculture</li>
+    <li style="margin-bottom: 5px;">Monitoring, assessing, and predicting agroecosystem dynamics (e.g., yield, GHG emissions, SOC)</li>
+    <li style="margin-bottom: 5px;">Developing and evaluating mitigation and adaptation strategies in agriculture</li>
+    <li style="margin-bottom: 5px;">Investigating carbon dynamics, nutrient cycling, and soil health interactions within agroecosystems</li>
   </ul>
-
-  <p><strong>Qualifications:</strong></p>
-  <ul style="padding-left: 20px;">
-    <li>A Master’s degree in a relevant field, such as agroecology, geography, soil science, Earth and environmental sciences, GIS, remote sensing, agronomy, hydrology, computer science, or a related discipline.</li>
-    <li>A strong sense of responsibility, self-motivation, and a willingness to learn new skills and knowledge</li>
-    <li>Proficiency in programming languages (e.g., Python, R, Matlab, C++)</li>
-    <li>Experience with machine learning/deep learning and process-based modeling is preferred</li>
-  </ul>
-
-  <p><strong>Application process:</strong></p>
-  <p>
-    Interested candidates are invited to email the following documents to Dr. Yongfa You (<a href="mailto:yongfayouau@gmail.com">yongfayouau@gmail.com</a>):
-  </p>
-  <ul style="padding-left: 20px;">
-    <li>A brief description of research experience and interests</li>
-    <li>Curriculum vitae (CV)</li>
-    <li>Academic transcripts</li>
-    <li>TOEFL score (if English is not the first language)</li>
-  </ul>
-
-  <p><strong>Application Deadline for Fall 2025 Admissions:</strong> January 5, 2025.</p>
 </div>
