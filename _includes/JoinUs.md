@@ -1,10 +1,11 @@
 <h1 id="Join Us"></h1>
 
-<h2 style="margin: 0px 0px 10px;">Join Us</h2>
+<h2 style="margin: 0 0 10px;">Join Us</h2>
 
-<div style="font-size: 16px; line-height: 1.6; color: #333;">
-  <p><strong>Postdoc and Ph.D. Opportunities in Climate-Smart Agriculture at Virginia Tech</strong></p>
-  <p>
+<div style="font-size: 16px; line-height: 1.4; color: #333;">
+
+  <p style="margin: 0;"><strong>Postdoc and Ph.D. Opportunities in Climate-Smart Agriculture at Virginia Tech</strong></p>
+  <p style="margin: 0;">
     I am seeking a Postdoctoral Researcher and a Ph.D. Student to join my research group in the 
     School of Plant and Environmental Sciences at Virginia Tech. Our group is dedicated to advancing 
     climate-smart agriculture (CSA) by monitoring, assessing, and predicting (MAP) agroecosystem 
@@ -17,42 +18,42 @@
     artificial intelligence (AI), geospatial data science, and big data analytics.
   </p>
 
-  <h3 style="font-size: 18px; color: #2f95de;">Position 1: Postdoctoral Researcher (AI-Driven Climate-Smart Agriculture)</h3>
-  <p>
+  <h3 style="margin: 10px 0 0; font-size: 18px; color: #2f95de;">Position 1: Postdoctoral Researcher (AI-Driven Climate-Smart Agriculture)</h3>
+  <p style="margin: 0;">
     This position offers an exciting opportunity to leverage cutting-edge technologies, such as AI, 
     agroecosystem modeling, and model-data integration, to advance the implementation of CSA practices. 
     Depending on the postdoc’s interests and expertise, potential research topics include:
   </p>
-  <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <div>Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</div>
-    <div>Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</div>
-    <div>Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</div>
+  <ul style="margin: 0; padding-left: 20px; list-style: none;">
+    <li style="margin: 0;">Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</li>
+    <li style="margin: 0;">Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</li>
+    <li style="margin: 0;">Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</li>
   </ul>
-  <p>
+  <p style="margin: 0;">
     The postdoc will have the opportunity to pursue their own research interests in related fields, 
     collaborate with multidisciplinary teams, and engage with stakeholders, including state implementers 
     and farmers.
   </p>
 
-  <p><strong>Required Qualifications:</strong></p>
-  <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <div>Ph.D. in agroecology, Earth and environmental sciences, geography, remote sensing, or a closely related field (within 4 years after completing the PhD).</div>
-    <div>Experience in AI research and geospatial data processing.</div>
-    <div>Strong programming skills (e.g., Python, R, MATLAB, C++).</div>
-    <div>Ability to conduct independent research and effectively disseminate findings.</div>
+  <p style="margin: 0;"><strong>Required Qualifications:</strong></p>
+  <ul style="margin: 0; padding-left: 20px; list-style: none;">
+    <li style="margin: 0;">Ph.D. in agroecology, Earth and environmental sciences, geography, remote sensing, or a closely related field (within 4 years after completing the PhD).</li>
+    <li style="margin: 0;">Experience in AI research and geospatial data processing.</li>
+    <li style="margin: 0;">Strong programming skills (e.g., Python, R, MATLAB, C++).</li>
+    <li style="margin: 0;">Ability to conduct independent research and effectively disseminate findings.</li>
   </ul>
 
-  <p><strong>Preferred Qualifications:</strong></p>
-  <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <li>Experience with process-based modeling, data assimilation, and model-data integration.</li>
-    <li>Proficiency in handling large datasets, Google Earth Engine, or high-performance computing.</li>
+  <p style="margin: 0;"><strong>Preferred Qualifications:</strong></p>
+  <ul style="margin: 0; padding-left: 20px; list-style: none;">
+    <li style="margin: 0;">Experience with process-based modeling, data assimilation, and model-data integration.</li>
+    <li style="margin: 0;">Proficiency in handling large datasets, Google Earth Engine, or high-performance computing.</li>
   </ul>
 
-  <p><strong>Salary Information:</strong> $55,000 – $62,000 (commensurate with experience)</p>
-  <p><strong>Starting Date:</strong> After August 1, 2025 (flexible)</p>
+  <p style="margin: 0;"><strong>Salary Information:</strong> $55,000 – $62,000 (commensurate with experience)</p>
+  <p style="margin: 0;"><strong>Starting Date:</strong> After August 1, 2025 (flexible)</p>
 
-  <h3 style="font-size: 18px; color: #2f95de;">Position 2: Ph.D. Student (Agricultural Carbon Systems)</h3>
-  <p>
+  <h3 style="margin: 10px 0 0; font-size: 18px; color: #2f95de;">Position 2: Ph.D. Student (Agricultural Carbon Systems)</h3>
+  <p style="margin: 0;">
     We are seeking a highly motivated and fully funded Ph.D. student to join our research group starting in 
     Fall 2025 or Spring 2026. This position offers an exciting opportunity to explore innovative solutions 
     to climate-smart agriculture through interdisciplinary research. The selected candidate will integrate 
@@ -61,32 +62,32 @@
     The candidate will have the flexibility to shape their research direction based on their interests and expertise.
   </p>
 
-  <p><strong>Potential areas of focus include (but are not limited to):</strong></p>
-  <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <li>Leveraging advanced tools (e.g., modeling and AI) to support precision agriculture.</li>
-    <li>Monitoring, assessing, and predicting agroecosystem dynamics (e.g., yield, GHG emissions, SOC).</li>
-    <li>Developing and evaluating mitigation and adaptation strategies in agriculture.</li>
-    <li>Investigating carbon dynamics, nutrient cycling, and soil health interactions within agroecosystems.</li>
+  <p style="margin: 0;"><strong>Potential areas of focus include (but are not limited to):</strong></p>
+  <ul style="margin: 0; padding-left: 20px; list-style: none;">
+    <li style="margin: 0;">Leveraging advanced tools (e.g., modeling and AI) to support precision agriculture.</li>
+    <li style="margin: 0;">Monitoring, assessing, and predicting agroecosystem dynamics (e.g., yield, GHG emissions, SOC).</li>
+    <li style="margin: 0;">Developing and evaluating mitigation and adaptation strategies in agriculture.</li>
+    <li style="margin: 0;">Investigating carbon dynamics, nutrient cycling, and soil health interactions within agroecosystems.</li>
   </ul>
 
-  <p><strong>Qualifications:</strong></p>
-  <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <li>A Master’s degree in a relevant field, such as agroecology, geography, soil science, Earth and environmental sciences, GIS, remote sensing, agronomy, hydrology, computer science, or a related discipline.</li>
-    <li>A strong sense of responsibility, self-motivation, and a willingness to learn new skills and knowledge.</li>
-    <li>Proficiency in programming languages (e.g., Python, R, Matlab, C++).</li>
-    <li>Experience with machine learning/deep learning and process-based modeling is preferred.</li>
+  <p style="margin: 0;"><strong>Qualifications:</strong></p>
+  <ul style="margin: 0; padding-left: 20px; list-style: none;">
+    <li style="margin: 0;">A Master’s degree in a relevant field, such as agroecology, geography, soil science, Earth and environmental sciences, GIS, remote sensing, agronomy, hydrology, computer science, or a related discipline.</li>
+    <li style="margin: 0;">A strong sense of responsibility, self-motivation, and a willingness to learn new skills and knowledge.</li>
+    <li style="margin: 0;">Proficiency in programming languages (e.g., Python, R, Matlab, C++).</li>
+    <li style="margin: 0;">Experience with machine learning/deep learning and process-based modeling is preferred.</li>
   </ul>
 
-  <p><strong>Application process:</strong></p>
-  <p>
+  <p style="margin: 0;"><strong>Application process:</strong></p>
+  <p style="margin: 0;">
     Interested candidates are invited to email the following documents to Dr. Yongfa You (<a href="mailto:yongfayouau@gmail.com">yongfayouau@gmail.com</a>):
   </p>
-  <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <li>A brief description of research experience and interests.</li>
-    <li>Curriculum vitae (CV).</li>
-    <li>Academic transcripts.</li>
-    <li>TOEFL score (if English is not the first language).</li>
+  <ul style="margin: 0; padding-left: 20px; list-style: none;">
+    <li style="margin: 0;">A brief description of research experience and interests.</li>
+    <li style="margin: 0;">Curriculum vitae (CV).</li>
+    <li style="margin: 0;">Academic transcripts.</li>
+    <li style="margin: 0;">TOEFL score (if English is not the first language).</li>
   </ul>
 
-  <p><strong>Application Deadline for Fall 2025 Admissions:</strong> January 5, 2025.</p>
+  <p style="margin: 0;"><strong>Application Deadline for Fall 2025 Admissions:</strong> January 5, 2025.</p>
 </div>
