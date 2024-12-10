@@ -1,6 +1,6 @@
-<h1 id="Join Us"></h1>
+<h1 id="JoinUs"></h1>
 
-<h2 style="margin: 0px 0px 0px;">Join Us</h2>
+<h2 style="margin: 0px 0px 0px;">JoinUs</h2>
 
 <div style="font-size: 16px; line-height: 1.6; color: #333;">
   <p><strong>Postdoc and Ph.D. Opportunities in Climate-Smart Agriculture at Virginia Tech</strong></p>
