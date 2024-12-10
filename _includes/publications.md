@@ -15,13 +15,13 @@
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin: 0; padding: 5px 0;">
+    <li style="margin: 0; padding: 0;">
       <div style="text-align: left; margin: 0; padding: 0;">
-        <div class="title" style="margin: 0; font-weight: bold;">
+        <div class="title" style="margin: 0; padding: 0; font-weight: bold;">
           <a href="{{ link.pdf }}" style="text-decoration: none; color: #0073e6;">{{ link.title }}</a>
         </div>
-        <div class="author" style="margin: 0; font-size: 14px;">{{ link.authors }}</div>
-        <div class="periodical" style="margin: 0; font-size: 13px; font-style: italic; color: #555;">{{ link.conference }}</div>
+        <div class="author" style="margin: 0; padding: 0; font-size: 14px;">{{ link.authors }}</div>
+        <div class="periodical" style="margin: 0; padding: 0; font-size: 13px; font-style: italic; color: #555;">{{ link.conference }}</div>
       </div>
     </li>
 
