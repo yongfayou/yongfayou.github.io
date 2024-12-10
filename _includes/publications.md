@@ -17,12 +17,12 @@
 
     <li style="margin-bottom: 0; padding: 10px 0; border-bottom: 1px solid #eaeaea;">
       <div style="text-align: left; margin: 0;">
-        <div class="title" style="margin-bottom: 5px;">
+        <div class="title" style="margin-bottom: 0px;">
           <a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a>
         </div>
-        <div class="author" style="margin-bottom: 3px;">{{ link.authors }}</div>
-        <div class="periodical" style="margin-bottom: 3px;"><em>{{ link.conference }}</em></div>
-        <div class="links" style="margin-top: 5px;">
+        <div class="author" style="margin-bottom: 0px;">{{ link.authors }}</div>
+        <div class="periodical" style="margin-bottom: 0px;"><em>{{ link.conference }}</em></div>
+        <div class="links" style="margin-top: 0px;">
           {% if link.pdf %} 
           <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           {% endif %}
