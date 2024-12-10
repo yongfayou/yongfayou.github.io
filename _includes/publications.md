@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px 15px; padding-left: 15px;">Publications 
+<h2 style="margin: 0px 0px 0px; padding-left: 15px;">Publications 
     <temp style="font-size:15px;">[</temp>
     <a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
     <temp style="font-size:15px;">]</temp>
