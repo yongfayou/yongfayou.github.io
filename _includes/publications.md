@@ -9,19 +9,19 @@
     <temp style="font-size:15px;">]</temp>
 </h2>
 
-<div class="publications" style="padding-left: 15px;">
+<div class="publications" style="padding: 0; margin: 0;">
   <ol class="bibliography" style="padding: 0; margin: 0; list-style: none;">
     {% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/' %}
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin: 0; padding: 0;">
-      <div style="text-align: left; margin: 0; padding: 0;">
-        <div class="title" style="margin: 0; padding: 0; font-weight: bold;">
+    <li style="margin: 0; padding: 0; line-height: 1;">
+      <div style="margin: 0; padding: 0;">
+        <div class="title" style="margin: 0; padding: 0; font-weight: bold; line-height: 1;">
           <a href="{{ link.pdf }}" style="text-decoration: none; color: #0073e6;">{{ link.title }}</a>
         </div>
-        <div class="author" style="margin: 0; padding: 0; font-size: 14px;">{{ link.authors }}</div>
-        <div class="periodical" style="margin: 0; padding: 0; font-size: 13px; font-style: italic; color: #555;">{{ link.conference }}</div>
+        <div class="author" style="margin: 0; padding: 0; font-size: 14px; line-height: 1;">{{ link.authors }}</div>
+        <div class="periodical" style="margin: 0; padding: 0; font-size: 13px; font-style: italic; color: #555; line-height: 1;">{{ link.conference }}</div>
       </div>
     </li>
 
