@@ -1,7 +1,7 @@
 main:
 
   - title: "Join Us"
-    url: ./#JoinUs 
+    url: ./#Join Us 
     right: true 
 
   - title: "News"
