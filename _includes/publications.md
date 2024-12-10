@@ -2,7 +2,6 @@
 <h2 style="margin: 60px 0px 10px;">Publications</h2>
 
 <div class="publications" style="padding-left: 0px;">
-  <ol class="bibliography" style="padding: 0; margin: 0; list-style: none;">
     <li style="margin-bottom: 0px;">
       <div style="margin: 0; padding: 0;">
         <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">
@@ -48,6 +47,4 @@
     </li>
 
     <!-- Continue this pattern for the remaining publications -->
-
-  </ol>
 </div>
