@@ -15,7 +15,7 @@
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin-bottom: 15px; padding: 10px 0; border-bottom: 1px solid #eaeaea;">
+    <li style="margin-bottom: 0; padding: 10px 0; border-bottom: 1px solid #eaeaea;">
       <div style="text-align: left; margin: 0;">
         <div class="title" style="margin-bottom: 5px;">
           <a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a>
