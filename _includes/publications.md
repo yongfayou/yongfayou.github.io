@@ -1,8 +1,8 @@
 <h1 id="publications"></h1>
-<h2 style="margin: 60px 0px 10px;">Publications</h2>
+<h2 style="margin: 50px 0px 0px;">Publications</h2>
 
 <div class="publications" style="padding-left: 0px;">
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
@@ -13,7 +13,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Dynamics of crop production and greenhouse gas balance in a changing environment: Data-driven systems approach for sustainable agriculture in the United States
@@ -24,7 +24,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Global nitrous oxide budget (1980–2020)
@@ -35,7 +35,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Balancing non‐CO2 GHG emissions and soil carbon change in U.S. rice paddies: A retrospective meta‐analysis and agricultural modeling study
@@ -46,7 +46,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Soil legacy nutrients contribute to the decreasing stoichiometric ratio of N and P loading from the Mississippi River Basin
@@ -57,7 +57,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Exploring the impact of urban regeneration programs on wildlife and human well-being: A case study in Nanning, China
@@ -68,7 +68,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Uncertainty in land use obscures global soil organic carbon stock estimates
@@ -79,7 +79,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Dynamics of global dryland vegetation were more sensitive to soil moisture: Evidence from multiple vegetation indices
@@ -90,7 +90,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Impacts and predictions of urban expansion on habitat connectivity networks: A multi-scenario simulation approach
@@ -101,7 +101,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Construction and analysis of multi-species ecological network, a case study of the Southeast Qinghai–Tibetan Plateau
@@ -112,7 +112,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Identification of priority areas to provide insights for ecological protection planning: A case study in Hechi, China
@@ -123,7 +123,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Assessing the impact of climate and human activities on ecosystem services in the Loess Plateau ecological screen, China
@@ -134,7 +134,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Spatiotemporal variation and coupling of grazing intensity and ecosystem based on four quadrant model on the Inner Mongolia
@@ -145,7 +145,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         How to optimize high-value GEP areas to identify key areas for protection and restoration: The integration of ecology and complex networks
@@ -156,7 +156,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Response of ecosystem services to impervious surface changes and their scaling effects in Loess Plateau ecological screen, China
@@ -167,7 +167,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Increase in precipitation and fractional vegetation cover promote synergy of ecosystem services in China’s arid regions—Northern sand-stabilization belt
@@ -178,7 +178,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Incorporating dynamic crop growth processes and management practices into a terrestrial biosphere model for simulating crop production in the United States: Toward a unified modeling framework
@@ -190,7 +190,7 @@
   </div>
 
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Using a remote-sensing-based piecewise retrieval algorithm to map chlorophyll-a concentration in a highland river system
@@ -201,7 +201,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Divergent responses of terrestrial carbon use efficiency to climate variation from 2000 to 2018
@@ -212,7 +212,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Growth stage-dependent responses of carbon fixation process of alpine grasslands to climate change over the Tibetan Plateau, China
@@ -223,7 +223,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Urban vegetation slows down the spread of coronavirus disease (COVID‐19) in the United States
@@ -234,7 +234,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         A remote sensing method for retrieving chlorophyll-a concentration from river water body
@@ -245,7 +245,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Improved modeling of gross primary productivity of alpine grasslands on the Tibetan Plateau using the Biome-BGC model
@@ -256,7 +256,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Study on hierarchical building extraction from high-resolution remote sensing imagery
@@ -267,7 +267,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Remote sensing retrieval of turbidity in alpine rivers based on high spatial resolution satellites
@@ -278,7 +278,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Application of remote sensing to identify and monitor seasonal and interannual changes of water turbidity in Yellow River Estuary, China
@@ -289,7 +289,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Building detection from VHR remote sensing imagery based on the morphological building index
@@ -300,7 +300,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Turbidity patterns identification based on self-organizing maps at Yellow River Estuary
@@ -311,7 +311,7 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Intelligent road and bridge disease detection method based on UAV images
