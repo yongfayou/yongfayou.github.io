@@ -16,8 +16,8 @@
     {% for link in site.data.publications.main %}
 
     <li style="margin: 0; padding: 0; border-bottom: none;">
-      <div style="text-align: left; margin-bottom: 0;">
-        <div class="title" style="margin-bottom: 0;">
+      <div style="text-align: left; margin: 0;">
+        <div class="title" style="margin: 0;">
           <a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a>
         </div>
         <div class="author" style="margin: 0;">{{ link.authors }}</div>
