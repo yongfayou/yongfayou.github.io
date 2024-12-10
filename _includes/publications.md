@@ -1,12 +1,12 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px; padding-left: 15px;">Publications 
-    <temp style="font-size:15px;">[</temp>
-    <a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
-    <temp style="font-size:15px;">]</temp>
-    <temp style="font-size:15px;">[</temp>
-    <a href="https://orcid.org/0000-0002-8916-2940" target="_blank" style="font-size:15px;">ORCID</a>
-    <temp style="font-size:15px;">]</temp>
+<h2 style="margin: 30px 0px 15px; padding-left: 15px; font-family: Arial, sans-serif; font-size: 24px; color: #333;">Publications 
+    <span style="font-size: 14px; color: #555;">[</span>
+    <a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size: 14px; color: #0073e6; text-decoration: none;">Google Scholar</a>
+    <span style="font-size: 14px; color: #555;">]</span>
+    <span style="font-size: 14px; color: #555;">[</span>
+    <a href="https://orcid.org/0000-0002-8916-2940" target="_blank" style="font-size: 14px; color: #0073e6; text-decoration: none;">ORCID</a>
+    <span style="font-size: 14px; color: #555;">]</span>
 </h2>
 
 <div class="publications" style="padding-left: 15px;">
@@ -15,34 +15,45 @@
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin: 0; padding: 0; border-bottom: none;">
+    <li style="margin-bottom: 15px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
       <div style="text-align: left; margin: 0;">
-        <div class="title" style="margin: 0;">
-          <a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a>
+        <!-- Title -->
+        <div class="title" style="margin-bottom: 8px; font-size: 18px; font-weight: bold; font-family: Arial, sans-serif;">
+          <a href="{{ link.pdf }}" style="text-decoration: none; color: #0073e6;">{{ link.title }}</a>
         </div>
-        <div class="author" style="margin: 0;">{{ link.authors }}</div>
-        <div class="periodical" style="margin: 0;"><em>{{ link.conference }}</em></div>
-        <div class="links" style="margin: 0;">
+        
+        <!-- Authors -->
+        <div class="author" style="margin-bottom: 5px; font-size: 14px; color: #555; font-family: Arial, sans-serif;">
+          {{ link.authors }}
+        </div>
+        
+        <!-- Conference -->
+        <div class="periodical" style="margin-bottom: 5px; font-size: 14px; font-style: italic; color: #777;">
+          {{ link.conference }}
+        </div>
+        
+        <!-- Links -->
+        <div class="links" style="margin-top: 10px;">
           {% if link.pdf %} 
-          <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-right: 10px; text-decoration: none; color: white; background-color: #0073e6; padding: 6px 12px; border-radius: 4px;">PDF</a>
           {% endif %}
           {% if link.code %} 
-          <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+          <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-right: 10px; text-decoration: none; color: white; background-color: #0073e6; padding: 6px 12px; border-radius: 4px;">Code</a>
           {% endif %}
           {% if link.page %} 
-          <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+          <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-right: 10px; text-decoration: none; color: white; background-color: #0073e6; padding: 6px 12px; border-radius: 4px;">Project Page</a>
           {% endif %}
           {% if link.bibtex %} 
-          <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+          <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-right: 10px; text-decoration: none; color: white; background-color: #0073e6; padding: 6px 12px; border-radius: 4px;">BibTex</a>
           {% endif %}
           {% if link.notes %} 
-          <strong><i style="color:#e74d3c">{{ link.notes }}</i></strong>
+          <strong><i style="color: #e74d3c;">{{ link.notes }}</i></strong>
           {% endif %}
           {% if link.others %} 
           {{ link.others }}
           {% endif %}
           {% if link.citation %} 
-          <strong><a style="color:#e74d3c; font-weight:600"> • <i class="total_citation_mtl" data-citation="{{ link.citation }}"></i> <i style="color:#e74d3c; font-weight:600"> Citations </i></a></strong>
+          <strong><a style="color:#e74d3c; font-weight: 600;"> • <i class="total_citation_mtl" data-citation="{{ link.citation }}"></i> <i style="color:#e74d3c; font-weight:600;">Citations</i></a></strong>
           <script>
             $(document).ready(function () {
                 var gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/';
