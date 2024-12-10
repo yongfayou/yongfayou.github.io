@@ -22,26 +22,6 @@
         </div>
         <div class="author" style="margin: 0; font-size: 14px;">{{ link.authors }}</div>
         <div class="periodical" style="margin: 0; font-size: 13px; font-style: italic; color: #555;">{{ link.conference }}</div>
-        <div class="links" style="margin: 0; font-size: 12px; color: #0073e6;">
-          {% if link.pdf %} 
-          <a href="{{ link.pdf }}" target="_blank" style="margin-right: 10px; text-decoration: none;">PDF</a>
-          {% endif %}
-          {% if link.code %} 
-          <a href="{{ link.code }}" target="_blank" style="margin-right: 10px; text-decoration: none;">Code</a>
-          {% endif %}
-          {% if link.page %} 
-          <a href="{{ link.page }}" target="_blank" style="margin-right: 10px; text-decoration: none;">Project Page</a>
-          {% endif %}
-          {% if link.bibtex %} 
-          <a href="{{ link.bibtex }}" target="_blank" style="margin-right: 10px; text-decoration: none;">BibTex</a>
-          {% endif %}
-          {% if link.notes %} 
-          <span style="color: #e74d3c;">{{ link.notes }}</span>
-          {% endif %}
-          {% if link.citation %} 
-          <span style="color: #e74d3c;"> • {{ link.citation }} Citations</span>
-          {% endif %}
-        </div>
       </div>
     </li>
 
