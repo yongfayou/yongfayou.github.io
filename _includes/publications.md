@@ -5,10 +5,10 @@
   <div style="margin-bottom: 15px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
-        - Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
+        Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
       </div>
       <div class="author" style="font-size: 16px; color: #555;">
-          <strong>You, Y.</strong>, Tian, H., Pan, S., Shi, H., Lu, C., Batchelor, W.D., Cheng, B., Hui, D., Kicklighter, D., Liang, X.Z., Li, X., Melillo, J., Pan, N., Prior, S. A., Reilly, J. (2023) <strong>Global Change Biology</strong>, 30(1), p.e17109.
+        <strong>You, Y.</strong>, Tian, H., Pan, S., Shi, H., Lu, C., Batchelor, W.D., Cheng, B., Hui, D., Kicklighter, D., Liang, X.Z., Li, X., Melillo, J., Pan, N., Prior, S. A., Reilly, J. (2023) <strong>Global Change Biology</strong>, 30(1), p.e17109.
       </div>
     </div>
   </div>
@@ -16,7 +16,7 @@
   <div style="margin-bottom: 15px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
-        - Dynamics of crop production and greenhouse gas balance in a changing environment: Data-driven systems approach for sustainable agriculture in the United States
+        Dynamics of crop production and greenhouse gas balance in a changing environment: Data-driven systems approach for sustainable agriculture in the United States
       </div>
       <div class="author" style="font-size: 16px; color: #555;">
         <strong>You, Y.</strong> (2023) <strong>Auburn University</strong> (PhD Dissertation)
