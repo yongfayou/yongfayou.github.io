@@ -36,12 +36,11 @@ I am currently a Postdoctoral Research Fellow at [Boston College](https://www.bc
 ## Professional Affiliations
 - **American Geophysical Union (AGU) Member**, 2019 - Present
 
-{% include_relative _includes/news.md %}
 
 {% include_relative _includes/Research.md %}
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/conference.md %}
+{% include_relative _includes/news.md %}
 
-{% include_relative _includes/Contact.md %}
+{% include_relative _includes/Join Us.md %}
