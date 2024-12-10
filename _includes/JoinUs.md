@@ -2,7 +2,7 @@
 
 <h2 style="margin: 0px 0px 10px;">Join Us</h2>
 
-<div style="font-size: 16px; line-height: 1.6; color: #333;">
+<div style="font-size: 22px; line-height: 1.6; color: #333;">
   <p><strong>Postdoc and Ph.D. Opportunities in Climate-Smart Agriculture at Virginia Tech</strong></p>
   <p>
     I am seeking a Postdoctoral Researcher and a Ph.D. Student to join my research group in the 
@@ -23,10 +23,10 @@
     agroecosystem modeling, and model-data integration, to advance the implementation of CSA practices. 
     Depending on the postdoc’s interests and expertise, potential research topics include:
   </p>
-  <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
-    <li>Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</li>
-    <li>Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</li>
-    <li>Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</li>
+  <ul style="margin: 0; padding-left: 20px; line-height: 1.2; list-style: none;">
+    <li style="margin: 0; padding: 0;">Evaluating environmental outcomes (e.g., GHG emissions, SOC sequestration, yield, and nutrient loading) of CSA practices (e.g., cover cropping, biochar application, and reduced tillage).</li>
+    <li style="margin: 0; padding: 0;">Optimizing CSA practices tailored to specific environmental conditions to maximize overall benefits.</li>
+    <li style="margin: 0; padding: 0;">Short-term predictions of agroecosystem dynamics under different CSA practices to enable proactive interventions.</li>
   </ul>
   <p>
     The postdoc will have the opportunity to pursue their own research interests in related fields, 
