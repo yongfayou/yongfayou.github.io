@@ -7,6 +7,6 @@
   <p>
     I am seeking <strong>a Postdoctoral Researcher</strong> and <strong>a Ph.D. Student</strong> to join my research group in the School of Plant and Environmental Sciences at Virginia Tech. Our group is dedicated to advancing climate-smart agriculture (CSA) by monitoring, assessing, and predicting agroecosystem dynamics (e.g., crop yield, greenhouse gas emissions, and soil organic carbon) under various environmental factors, such as climate change, agricultural management practices, rising CO<sub>2</sub> levels, land use change, and disturbances like droughts and heatwaves. Our overarching goal is to develop science-informed, actionable solutions to enhance food security, mitigate climate change, and promote sustainable and resilient agricultural systems. We approach these studies using data-driven systems methods that integrate domain knowledge with process-based agricultural modeling, artificial intelligence, geospatial data science, and big data analytics.
 
-    For more information, please refer to assets/files/Open Postdoc and PhD Positions at Virginia Tech.pdf
+    For more information, please refer to https://github.com/yongfayou/yongfayou.github.io/blob/c30ce5039dc72095050db1838464546d9ea0b4c8/assets/files/Open%20Postdoc%20and%20PhD%20Positions%20at%20Virginia%20Tech.pdf
   </p>
 </div>
