@@ -1,9 +1,9 @@
 <h1 id="publications"></h1>
 <h2 style="margin: 60px 0px 10px;">Publications</h2>
 
-<div class="publications" style="padding-left: 15px;">
+<div class="publications" style="padding-left: 0px;">
   <ol class="bibliography" style="padding: 0; margin: 0; list-style: none;">
-    <li style="margin-bottom: 15px;">
+    <li style="margin-bottom: 0px;">
       <div style="margin: 0; padding: 0;">
         <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">
           Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
@@ -14,7 +14,7 @@
       </div>
     </li>
 
-    <li style="margin-bottom: 15px;">
+    <li style="margin-bottom: 0px;">
       <div style="margin: 0; padding: 0;">
         <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">
           Dynamics of crop production and greenhouse gas balance in a changing environment: Data-driven systems approach for sustainable agriculture in the United States
@@ -25,7 +25,7 @@
       </div>
     </li>
 
-    <li style="margin-bottom: 15px;">
+    <li style="margin-bottom: 0px;">
       <div style="margin: 0; padding: 0;">
         <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">
           Global nitrous oxide budget (1980–2020)
@@ -36,7 +36,7 @@
       </div>
     </li>
 
-    <li style="margin-bottom: 15px;">
+    <li style="margin-bottom: 0px;">
       <div style="margin: 0; padding: 0;">
         <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">
           Balancing non‐CO2 GHG emissions and soil carbon change in U.S. rice paddies: A retrospective meta‐analysis and agricultural modeling study
