@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 0px 0px 0px; padding-left: 15px;">Publications 
+<h2 style="margin: 0; padding-left: 15px;">Publications 
     <temp style="font-size:15px;">[</temp>
     <a href="https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
     <temp style="font-size:15px;">]</temp>
@@ -10,19 +10,19 @@
 </h2>
 
 <div class="publications" style="padding-left: 15px;">
-  <ol class="bibliography" style="padding-left: 0; list-style: none; margin: 0;">
+  <ol class="bibliography" style="padding: 0; margin: 0; list-style: none;">
     {% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/' %}
     {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
     {% for link in site.data.publications.main %}
 
-    <li style="margin-bottom: 0; padding: 10px 0;">
-      <div style="text-align: left; margin: 0;">
-        <div class="title" style="margin-bottom: 0px;">
+    <li style="margin: 0; padding: 10px 0; border: none;">
+      <div style="text-align: left; margin: 0; padding: 0;">
+        <div class="title" style="margin: 0; padding: 0;">
           <a href="{{ link.pdf }}" style="text-decoration: none; font-weight: bold;">{{ link.title }}</a>
         </div>
-        <div class="author" style="margin-bottom: 0px;">{{ link.authors }}</div>
-        <div class="periodical" style="margin-bottom: 0px;"><em>{{ link.conference }}</em></div>
-        <div class="links" style="margin-top: 0px;">
+        <div class="author" style="margin: 0; padding: 0;">{{ link.authors }}</div>
+        <div class="periodical" style="margin: 0; padding: 0;"><em>{{ link.conference }}</em></div>
+        <div class="links" style="margin: 0; padding: 0;">
           {% if link.pdf %} 
           <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           {% endif %}
@@ -36,7 +36,7 @@
           <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
           {% endif %}
           {% if link.notes %} 
-          <strong><i style="color:#e74d3c">{{ link.notes }}</i></strong>
+          <strong><i style="color:#e74d3c;">{{ link.notes }}</i></strong>
           {% endif %}
           {% if link.others %} 
           {{ link.others }}
