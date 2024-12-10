@@ -1,7 +1,7 @@
 main:
 
   - title: "Join Us"
-    url: ./#contact 
+    url: ./#JoinUs 
     right: true 
 
   - title: "News"
@@ -11,7 +11,7 @@ main:
     url: ./#publications
 
   - title: "Research"
-    url: ./#projects
+    url: ./#Research
 
   - title: "Bio"
     url: ./#about-me
