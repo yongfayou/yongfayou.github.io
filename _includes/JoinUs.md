@@ -2,22 +2,13 @@
 
 <h2 style="margin: 0px 0px 10px;">Join Us</h2>
 
-<div style="font-size: 20px; line-height: 1.6; color: #333;">
+<div style="font-size: 18px; line-height: 1.6; color: #333;">
   <p><strong>Postdoc and Ph.D. Opportunities in Climate-Smart Agriculture at Virginia Tech</strong></p>
   <p>
-    I am seeking a Postdoctoral Researcher and a Ph.D. Student to join my research group in the 
-    School of Plant and Environmental Sciences at Virginia Tech. Our group is dedicated to advancing 
-    climate-smart agriculture (CSA) by monitoring, assessing, and predicting (MAP) agroecosystem 
-    dynamics (e.g., crop yield, greenhouse gas (GHG) emissions, and soil organic carbon (SOC)) under 
-    various environmental factors, such as climate change, agricultural management practices, rising 
-    CO<sub>2</sub> levels, land use change, and disturbances like droughts and heatwaves. Our overarching 
-    goal is to develop science-informed, actionable solutions to enhance food security, mitigate climate 
-    change, and promote sustainable and resilient agricultural systems. We approach these studies using 
-    data-driven systems methods that integrate domain knowledge with process-based agricultural modeling, 
-    artificial intelligence (AI), geospatial data science, and big data analytics.
+    I am seeking a Postdoctoral Researcher and a Ph.D. Student to join my research group in the School of Plant and Environmental Sciences at Virginia Tech. Our group is dedicated to advancing climate-smart agriculture (CSA) by monitoring, assessing, and predicting (MAP) agroecosystem dynamics (e.g., crop yield, greenhouse gas (GHG) emissions, and soil organic carbon (SOC)) under various environmental factors, such as climate change, agricultural management practices, rising CO<sub>2</sub> levels, land use change, and disturbances like droughts and heatwaves. Our overarching goal is to develop science-informed, actionable solutions to enhance food security, mitigate climate change, and promote sustainable and resilient agricultural systems. We approach these studies using data-driven systems methods that integrate domain knowledge with process-based agricultural modeling, artificial intelligence (AI), geospatial data science, and big data analytics.
   </p>
 
-  <h3 style="font-size: 16px; color: #2f95de;">Position 1: Postdoctoral Researcher (AI-Driven Climate-Smart Agriculture)</h3>
+  <h3 style="font-size: 14px; color: #2f95de;">Position 1: Postdoctoral Researcher (AI-Driven Climate-Smart Agriculture)</h3>
   <p>
     This position offers an exciting opportunity to leverage cutting-edge technologies, such as AI, 
     agroecosystem modeling, and model-data integration, to advance the implementation of CSA practices. 
@@ -51,7 +42,7 @@
   <p><strong>Salary Information:</strong> $55,000 – $62,000 (commensurate with experience)</p>
   <p><strong>Starting Date:</strong> After August 1, 2025 (flexible)</p>
 
-  <h3 style="font-size: 16px; color: #2f95de;">Position 2: Ph.D. Student (Agricultural Carbon Systems)</h3>
+  <h3 style="font-size: 14px; color: #2f95de;">Position 2: Ph.D. Student (Agricultural Carbon Systems)</h3>
   <p>
     We are seeking a highly motivated and fully funded Ph.D. student to join our research group starting in 
     Fall 2025 or Spring 2026. This position offers an exciting opportunity to explore innovative solutions 
