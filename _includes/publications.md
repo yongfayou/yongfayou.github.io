@@ -5,28 +5,6 @@
   <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
-        Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
-      </div>
-      <div class="author" style="font-size: 16px; color: #555;">
-        <strong>You, Y.</strong>, Tian, H., Pan, S., Shi, H., Lu, C., Batchelor, W.D., Cheng, B., Hui, D., Kicklighter, D., Liang, X.Z., Li, X., Melillo, J., Pan, N., Prior, S. A., Reilly, J. (2023) <strong>Global Change Biology</strong>, 30(1), p.e17109.
-      </div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <div style="margin: 0; padding: 0;">
-      <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
-        Dynamics of crop production and greenhouse gas balance in a changing environment: Data-driven systems approach for sustainable agriculture in the United States
-      </div>
-      <div class="author" style="font-size: 16px; color: #555;">
-        <strong>You, Y.</strong> (2023) <strong>Auburn University</strong> (PhD Dissertation)
-      </div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <div style="margin: 0; padding: 0;">
-      <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
         Global nitrous oxide budget (1980–2020)
       </div>
       <div class="author" style="font-size: 16px; color: #555;">
@@ -49,10 +27,10 @@
   <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
-        Soil legacy nutrients contribute to the decreasing stoichiometric ratio of N and P loading from the Mississippi River Basin
+        Exploring the impact of urban regeneration programs on wildlife and human well-being: A case study in Nanning, China
       </div>
       <div class="author" style="font-size: 16px; color: #555;">
-        Bian, Z., Tian, H., Pan, S., Shi, H., Lu, C., Anderson, C., Cai, W.-J., Hopkinson, C. S., Justic, D., Kalin, L., Lohrenz, S., McNulty, S., Pan, N., Sun, Ge, Wang, Z., Yao, Y., <strong>You, Y.</strong> (2023). <strong>Global Change Biology</strong>, 29(24), pp.7145-7158.
+        Chang, S., Su, K., Jiang, X., <strong>You, Y.</strong>, Li, C., Wang, L. (2024). <strong>Ecological Indicators</strong>, 159, p.111640.
       </div>
     </div>
   </div>
@@ -60,10 +38,32 @@
   <div style="margin-bottom: 10px;">
     <div style="margin: 0; padding: 0;">
       <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
-        Exploring the impact of urban regeneration programs on wildlife and human well-being: A case study in Nanning, China
+        Net greenhouse gas balance in U.S. croplands: How can soils be part of the climate solution?
       </div>
       <div class="author" style="font-size: 16px; color: #555;">
-        Chang, S., Su, K., Jiang, X., <strong>You, Y.</strong>, Li, C., Wang, L. (2024). <strong>Ecological Indicators</strong>, 159, p.111640.
+        <strong>You, Y.</strong>, Tian, H., Pan, S., Shi, H., Lu, C., Batchelor, W.D., Cheng, B., Hui, D., Kicklighter, D., Liang, X.Z., Li, X., Melillo, J., Pan, N., Prior, S. A., Reilly, J. (2023) <strong>Global Change Biology</strong>, 30(1), p.e17109.
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    <div style="margin: 0; padding: 0;">
+      <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
+        Dynamics of crop production and greenhouse gas balance in a changing environment: Data-driven systems approach for sustainable agriculture in the United States
+      </div>
+      <div class="author" style="font-size: 16px; color: #555;">
+        <strong>You, Y.</strong> (2023) <strong>Auburn University</strong> (PhD Dissertation)
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    <div style="margin: 0; padding: 0;">
+      <div class="title" style="font-weight: bold; font-size: 16px; margin-bottom: 2px; color: #2f95de;">
+        Soil legacy nutrients contribute to the decreasing stoichiometric ratio of N and P loading from the Mississippi River Basin
+      </div>
+      <div class="author" style="font-size: 16px; color: #555;">
+        Bian, Z., Tian, H., Pan, S., Shi, H., Lu, C., Anderson, C., Cai, W.-J., Hopkinson, C. S., Justic, D., Kalin, L., Lohrenz, S., McNulty, S., Pan, N., Sun, Ge, Wang, Z., Yao, Y., <strong>You, Y.</strong> (2023). <strong>Global Change Biology</strong>, 29(24), pp.7145-7158.
       </div>
     </div>
   </div>
