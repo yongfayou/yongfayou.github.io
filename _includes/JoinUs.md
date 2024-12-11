@@ -9,7 +9,7 @@
   </p>
   <p>
     For more information, please refer to 
-    <a href="https://github.com/yongfayou/yongfayou.github.io/blob/c51579d980961a8d8754cd8be07bbf32a0544100/assets/files/Open%20Postdoc%20and%20PhD%20Positions%20at%20Virginia%20Tech.pdf" target="_blank" style="color: #2f95de; text-decoration: none;">
+    <a href="https://drive.google.com/file/d/16pxncBE7K0Rm21SKcSzaqRNs7qa83AUS/view?usp=sharing" target="_blank" style="color: #2f95de; text-decoration: none;">
       this link
     </a>.
   </p>
