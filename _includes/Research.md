@@ -16,7 +16,7 @@
           <div class="title"><a href="{{ link.web }}">{{ link.title }}</a></div>
           <div class="author">{{ link.authors }}</div>
           <div class="abstract" style="font-style: normal;">{{ link.abstract }}</div>
-          <div class="periodical" style="font-style: normal;">{{ link.project }}</div>
+          <div class="periodical">{{ link.project }}</div>
         </div>
       </div>
     </li>
