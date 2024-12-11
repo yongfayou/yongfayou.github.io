@@ -1,6 +1,6 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 60px 0px 10px;">News</h2>
+<h2 style="margin: 80px 0px 10px;">News</h2>
 
 <ul style="padding-left: 0; list-style-type: none;">
 

@@ -1,5 +1,5 @@
 <h1 id="publications"></h1>
-<h2 style="margin: 60px 0px 0px;">Publications</h2>
+<h2 style="margin: 80px 0px 0px;">Publications</h2>
 
 <div class="publications" style="padding-left: 0px;">
   <div style="margin-bottom: 10px;">
