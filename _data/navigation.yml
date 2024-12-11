@@ -2,6 +2,7 @@ main:
     
   - title: "Join Us"
     url: ./#JoinUs
+    right: true
     
   - title: "News"
     url: ./#news 
