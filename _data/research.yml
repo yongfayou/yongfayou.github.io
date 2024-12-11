@@ -9,7 +9,7 @@ main:
     image: ./assets/img/GHGEmissions.jpg
 
   - title: AI-Driven Predictions of Agricultural System Dynamics
-    project: Leveraging AI techniques, including machine learning and deep learning, integrated with multi-source data, to predict short-term agricultural system dynamics such as food production, greenhouse gas emissions, and soil organic carbon sequestration, facilitating proactive interventions to mitigate risks, boost productivity, and promote sustainable agricultural management.
+    project: Leveraging AI techniques, such as machine learning and deep learning, integrated with multi-source data, to predict short-term agricultural system dynamics such as food production, greenhouse gas emissions, and soil organic carbon sequestration, facilitating proactive interventions to mitigate risks, boost productivity, and promote sustainable agricultural management.
     image: ./assets/img/deeplearning.jpeg
 
   - title: Science-Informed Solutions for Climate-Smart Agriculture
