@@ -41,6 +41,8 @@ I am currently a Postdoctoral Research Fellow at [Boston College](https://www.bc
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/services.md %}
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/JoinUs.md %}

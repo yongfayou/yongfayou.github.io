@@ -2,7 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
-<h4 style="margin:0 10px 0;">Organization Committee</h4>
+<h4 style="margin:0 10px 0;">Academic Editor</h4>
 
 <ul style="margin:0 0 5px;">
   <li>..<a href="https://bmvc2023.org/people/organisers/"><autocolor>..</autocolor></a> <a href="h12"><autocolor>2022</autocolor></a>-<a href="12"><autocolor>2023</autocolor></a></li>
