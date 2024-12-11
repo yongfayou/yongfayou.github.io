@@ -5,28 +5,7 @@
 <h4 style="margin:0 10px 0;">Academic Editor</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>..<a href="https://bmvc2023.org/people/organisers/"><autocolor>..</autocolor></a> <a href="h12"><autocolor>2022</autocolor></a>-<a href="12"><autocolor>2023</autocolor></a></li>
-  <li>s<a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>sd</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">sd</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr.thecvf.com/"><autocolor>...</autocolor></a></li>
-  
-</ul>
-
-<h4 style="margin:0 10px 0;">...</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://ijcai-21.org/"><autocolor>...</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">..</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>...</autocolor></a></li>
-  
+  <li>..<a href="https://www.mdpi.com/journal/remotesensing/special_issues/5OY59GQIS2"><autocolor><strong>Remote Sensing</strong> - </autocolor>Monitoring, Assessment, and Prediction of Agroecosystem Dynamics for Sustainable Agriculture: Applications of Photogrammetry, Remote Sensing, and Geographic Information Systems</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
