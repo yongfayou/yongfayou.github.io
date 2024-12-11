@@ -13,7 +13,7 @@ main:
     image: ./assets/img/deeplearning.jpeg
 
   - title: Science-Informed Solutions for Climate-Smart Agriculture
-    project: Developing science-informed solutions and data-driven decision-support systems to empower stakeholders in adopting climate-smart agricultural practices by enabling carbon market participation, fostering collaboration among farmers, policymakers, and industry leaders, and advancing extension programs to translate research into actionable strategies effectively.
+    project: Developing science-informed solutions and data-driven decision-support systems to promote climate-smart agriculture, facilitate carbon market participation, foster collaboration among farmers, policymakers, and industry leaders, and enhance extension programs for effectively translating research into actionable strategies.
     image: ./assets/img/ClimateSmartAgriculture.png
 
 
