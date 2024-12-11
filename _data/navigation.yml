@@ -1,17 +1,15 @@
 main:
-
-  - title: "Join Us"
-    url: ./#JoinUs 
-    right: true 
-
-  - title: "News"
-    url: ./#news   
-
-  - title: "Publications"
-    url: ./#publications
+  - title: "Bio"
+    url: ./#about-me
 
   - title: "Research"
     url: ./#Research
 
-  - title: "Bio"
-    url: ./#about-me
+  - title: "Publications"
+    url: ./#publications
+    
+  - title: "News"
+    url: ./#news 
+    
+  - title: "Join Us"
+    url: ./#JoinUs
