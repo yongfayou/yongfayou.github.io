@@ -9,7 +9,7 @@
   </p>
   <p>
     For more information, please refer to 
-    <a href="https://drive.google.com/file/d/16pxncBE7K0Rm21SKcSzaqRNs7qa83AUS/view?usp=sharing" target="_blank" style="color: #2f95de; text-decoration: none;">
+    <a href="https://drive.google.com/file/d/1qnm1qEfbOMFngglB7EvJzTI6sfO81OPs/view?usp=sharing" target="_blank" style="color: #2f95de; text-decoration: none;">
       this link
     </a>.
   </p>
