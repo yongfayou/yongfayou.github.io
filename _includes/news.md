@@ -6,6 +6,6 @@
 
   <li style="margin-left: 0;"><strong>[Nov. 2024]</strong> I am excited to accept the offer for the Assistant Professor position in Agricultural Carbon Systems at Virginia Tech.</li>
 
-  <li style="margin-left: 0;"><strong>[Dec. 2024]</strong> I am thrilled to announce that Dr. Hua Yan will be joining our group.</li>
+  <li style="margin-left: 0;"><strong>[Dec. 2024]</strong> I am thrilled to announce that Dr. Hua Yan will be joining our group as a Postdoctoral Researcher.</li>
 
 </ul>
