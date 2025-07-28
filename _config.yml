@@ -27,9 +27,9 @@ google_scholar: "https://scholar.google.com/citations?user=Bd5il3oAAAAJ&hl=en"
 twitter: "https://x.com/yongfa_you"
 
 # Images
-avatar: "./assets/img/Yongfa You_Life Picture1.jpg"
-favicon: "./assets/img/Yongfa You_Life Picture1.jpg"
-favicon_dark: "./assets/img/Yongfa You_Life Picture1.jpg"
+avatar: "./assets/img/Yongfa You_Professional Picture.jpg"
+favicon: "./assets/img/Yongfa You_Professional Picture.jpg"
+favicon_dark: "./assets/img/Yongfa You_Professional Picture.jpg"
 
 # Footnotes
 enable_footnote: false # Disable "Powered by Jekyll and Minimal Light theme"
