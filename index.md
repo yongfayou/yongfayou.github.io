@@ -13,6 +13,7 @@ I am a tenure-track Assistant Professor at [Virginia Tech](https://spes.vt.edu/)
 - **Climate Change** (e.g., impacts, mitigation, adaptation, extreme climate events)
 - **Earth System Modeling** (e.g., model development, applications, uncertainty analysis)
 - **Sustainable Land Management Practices** (e.g., cover cropping, no-tillage, crop rotation)
+- **Water Quality** (e.g., nutrient runoff, sediment transport, management)
 - **Geospatial Data Science** (e.g., geospatial analysis, remote sensing, GIS, deep learning)
 
 ## Education
