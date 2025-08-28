@@ -24,7 +24,7 @@ I am a tenure-track Assistant Professor in the School of Plant and Environmental
 
 ## Appointments
 - **Assistant Professor**, 2025 - Present, Virginia Tech, US
-- **Postdoctoral Research Fellow**, 2023 - 2025, Boston College, US (Advisor: Dr. Hanqin Tian)
+- **Postdoctoral Research Fellow**, 2024 - 2025, Boston College, US (Advisor: Dr. Hanqin Tian)
 - **Research Assistant**, 2019 - 2023, Auburn University, US (Advisor: Dr. Hanqin Tian and Dr. Shufen Pan)
 - **Research Assistant**, 2016 - 2019, University of Chinese Academy of Sciences, China (Advisor: Dr. Siyuan Wang)
 
